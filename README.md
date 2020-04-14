@@ -15,8 +15,8 @@ Debian Image with
 * [Github](https://github.com/norbekaiser/docker-tdlib_build.git)
 
 ## Docker
-* [dockerhub](https://hub.docker.com/r/norbnorb/tg-utils_build)
+* [dockerhub](https://hub.docker.com/r/norbnorb/tdlib_build)
 
 
 ### Docker Pull Command
-```docker pull norbnorb/tg-utils_build```
+```docker pull norbnorb/tdlib_build```
