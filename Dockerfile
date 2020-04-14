@@ -9,4 +9,4 @@ RUN apt-get install -y --no-install-recommends libssl-dev
 RUN apt-get install -y --no-install-recommends zlib1g-dev
 RUN apt-get install -y --no-install-recommends libreadline-dev
 RUN apt-get clean
-RUN rm -rf /varlib/apt/lists/*
+RUN rm -rf /var/lib/apt/lists/*
